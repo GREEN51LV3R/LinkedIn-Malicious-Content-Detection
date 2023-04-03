@@ -1,0 +1,5 @@
+pip install ipython 
+pip install selenium
+pip install time
+pip install parsel
+pip install csv
